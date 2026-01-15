@@ -25,3 +25,17 @@ flutter run
 ## Notes
 
 This project was built as part of a Flutter codelab assignment to explore widgets, state, navigation, and theming.
+
+## Screenshots
+
+### Home
+![Home Screen](screenshots/Home.png)
+
+### Capture Moment
+![Capture Moment](screenshots/Capture.png)
+
+### Reflection
+![Reflection](screenshots/Reflection.png)
+
+### Dark Mode
+![Dark Mode](screenshots/Dark%20Mode.png)
