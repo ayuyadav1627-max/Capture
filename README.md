@@ -1,16 +1,22 @@
-# capture
+# Capture
 
-A new Flutter project.
+Capture is a minimal Flutter app for recording daily moments and reflecting on emotional patterns.
 
-## Getting Started
+## Features
+- Capture short daily moments with a selected mood
+- Dynamic app theming based on mood
+- Light / dark mode toggle
+- Reflection screen that summarizes the day
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- Material 3
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
+- `lib/main.dart` — core application logic and UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+```bash
+flutter pub get
+flutter run
