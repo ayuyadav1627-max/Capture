@@ -20,6 +20,7 @@ Capture is a minimal Flutter app for recording daily moments and reflecting on e
 ```bash
 flutter pub get
 flutter run
+```
 
 ## Notes
 
